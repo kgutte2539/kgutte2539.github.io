@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/graduation-hat-logo-design-template-inspiration-vector-illustration_556641-1757.avif
 title: "RadGrad"
 date: 2025-02-19
 published: true
