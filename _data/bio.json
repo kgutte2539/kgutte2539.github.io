@@ -4,10 +4,10 @@
     "label": "Student",
     "picture": "img/kaitogutterman_pic.png",
     "email": "kgutte2539@my.sullivan.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://kgutte2539.github.io",
     "summary": "I am studying for a B.S. in Information Technology at the Sullivan University. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "40023", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "kgutte2539", "url": "http://github.com/kgutte2539" },
       { "network": "linkedin", "username": "kgutte2539", "url": "http://linkedin.com/in/kgutte2539" }
