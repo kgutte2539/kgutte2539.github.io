@@ -30,6 +30,15 @@
   ],
   "education": [
     {
+      "institution": "Kelly Walsh High School, Casper, WY",
+      "area": "High School",
+      "studyType": ,
+      "startDate": ,
+      "endDate": "2022",
+      "courses": [
+      ]
+    }
+    {
       "institution": "Sullivan University, Louisville, KY",
       "area": "Information Technology (expected Spring, 2025)",
       "studyType": "B.S.",
@@ -38,6 +47,7 @@
       "courses": [
       ]
     }
+    
   ],
   "work": [
     {
