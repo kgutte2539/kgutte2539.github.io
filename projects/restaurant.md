@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/japan.png
 title: "KG Japanese Food"
 date: 2025
 published: true
