@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Taking Financial Education for Young People"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-028
+date: 2025-02-28
 published: true
 labels:
   - Finance
