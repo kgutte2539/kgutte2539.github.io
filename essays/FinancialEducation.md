@@ -24,18 +24,3 @@ The great thing about taking financial course in school is that it allows people
 Financial education can be very helpful to gain social skills. Since financial education requires learning about finance, it also teaches social skills by talking to others. Financial education does not teach people on just how to manage money well but to create social skills to build up opportunities to make more money. Without any social skills, it is almost impossible for each person to gain the ability to stay on task with their finance. Many times financial educations require presentations and many group activities to build up these skills that can be utilized in the future. 
 Financial literacy allows people to look into jobs realistically and compare finance. Although finance is not the only factor that determines if certain jobs are great, but it talks about how much individual jobs make for educational purposes. Because financial education looks at actual salaries for each jobs, people can really look into if certain jobs are actually the great choice for each individual. It is true that each individuals should follow their own dream jobs, however, finance is also a very important aspects and students need to think more realistically than just following what they want. 
 In conclusion, I believe that financial education is very important for young people to take during childhood because it allows people to be more financially stable in the future. If young children learn the habits of having great financial behaviors early, then it has a higher chance that each individuals has better choices in future. Currently, there are many people who has bad habits with finance and the earlier it is for people to learn good habits, the more efficient they can be with finance. 
-
-
-
-
-
-
-
-
-References
-Carmona, J. L. (2012). The importance of credit reports and scores. Caribbean Business, 40(34), 12.
-Faulkner, A. (2022). Financial literacy around the world: What we can learn from the national strategies and contexts of the top ten most financially literate nations. Reference Librarian, 63(1/2), 1–28. https://doi-org.suscorp.idm.oclc.org/10.1080/02763877.2021.2009955
-Handy, J., Pontari, B., Smythe, T., & Summers, S. (2021). Improving collegiate financial literacy via financial education seminars. Financial Services Review, 29(4), 315–341.
-Németh, E., Vargha, B. T., & Domokos, K. (2020). Financial literacy. Who, whom and what are they Training for? comparative analysis 2016-2020. Public Finance Quarterly (0031-496X), 65(4), 554–583. https://doi-org.suscorp.idm.oclc.org/10.35551/pfq_2020_4_7
-Walstad, W. B., Rebeck, K., & Macdonald, R. A. (2010). The effects of financial education on the financial knowledge of high school students. Journal of Consumer Affairs, 44(2), 336–357. https://doi-org.suscorp.idm.oclc.org/10.1111/j.1745-6606.2010.01172.x
-Yin, H., & Yang, Q. (2022). Investor financial literacy, decision-making behavior, and stock price volatility—Evidence from behavioral experiments. Journal of Neuroscience, Psychology, and Economics, 15(2), 69–88. https://doi-org.suscorp.idm.oclc.org/10.1037/npe0000158
